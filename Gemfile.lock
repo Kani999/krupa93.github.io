@@ -72,6 +72,7 @@ PLATFORMS
 DEPENDENCIES
   asciidoctor (~> 1.5.4)
   coderay (= 1.1.1)
+  ffi (>= 1.9.24)
   jekyll (>= 3.6.3)
   jekyll-asciidoc
   jekyll-gist
