@@ -2,24 +2,50 @@
 layout: page
 show_meta: false
 title: "About Me"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+# subheadline: "A Step-by-Step Guide"
+teaser: "A little introduction about myself"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/about-me/"
 ---
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+***
+I'm an experienced Information System Specialist with a demonstrated history of working in the research industry. Skilled in Programming Languages, SQL, Web Applications, Databases, and Ruby on Rails Framework. Strong information technology professional with a Master's degree focused in Information Technology from the Technical University of Ostrava.
+
+***
 
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+### Programming languages
+- Ruby
+- Python
+- C#
+- Java
+- SQL
+
+***
+
+### Frameworks
+- Ruby On Rails
+- .NET
+- Flask
+
+***
+
+### Database Systems
+- MySQL
+- MariaDB
+- MsSQL
+- Oracle
+
+***
+
+### Languages
+- Czech (*native*)
+- English
+
+***
+
+### Courses
+- Git - Version Control System ([cz.nic](https://akademie.nic.cz/))
+
+***
