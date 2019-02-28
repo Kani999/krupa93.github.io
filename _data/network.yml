@@ -1,23 +1,23 @@
-- menu_name: "Other projects"
+- menu_name: "Projects"
 
-- name: "OVH VPS"
-  #url: "http://entypo.com/"
-  #class: "network-entypo"
-  #title: "Icons by Daniel Bruce"
-
-- name: "Docker"
-  #url: "http://foundation.zurb.com/"
+- name: "Jekyll"
+  url: "https://github.com/Kani999/krupa93.github.io"
   #class: "services-newsletter"
-  #title: "Built on Foundation"
+  title: "Personal website and blog"
 
-- name: "Kubernetes"
+- name: "VPS"
+  url: "https://www.ovh.cz/vps/"
+  #class: "network-entypo"
+  title: "Virtual Private Server"
+
+  #- name: "Kubernetes"
   #url: "http://unsplash.com/"
   #class: "rss-link"
   #title: "Images by Unsplash"
 
-- name: "React"
+  #- name: "React"
   #url: "http://srobbin.com/jquery-plugins/backstretch/"
   #class: "sitemap-link"
   #title: "Using Backstretch by Scott Robbin"
 
-- name: "Raspberry Pi"
+  #- name: "Raspberry Pi"
