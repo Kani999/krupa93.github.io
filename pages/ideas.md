@@ -11,7 +11,7 @@ permalink: "/ideas/"
 ## Ideas and possible new projects
 {: .t30 }
 
-* Get in touch with NODE.js - **Doing**
+* Get in touch with NODE.js - [Doing](https://github.com/Kani999/nodejs-rest-api "Simple REST API")
 * Learn how to use Docker
 * Interact with Raspberry Pi
 * Create Kubernetes cluster
