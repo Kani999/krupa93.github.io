@@ -25,7 +25,7 @@ author: krupa93
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.krupajan.cz'
+url: 'https://www.krupajan.cz'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.krupajan.cz/images/'
+urlimg: 'https://www.krupajan.cz/images/'
 
 
 # Logo size is 600x80 pixels
@@ -177,9 +177,9 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale:                          'en_EN'
-og_type:                            'website'
+# og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+# og_locale:                          'en_EN'
+# og_type:                            'website'
 
 
 #      _____            _       __   __  ___         ___
