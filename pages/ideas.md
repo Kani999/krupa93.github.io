@@ -4,7 +4,7 @@ title: "To-Do List &amp; Ideas"
 # subheadline: "ToDo-List &amp; Ideas"
 teaser: "There are some ideas and projects I want to implement in the future."
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
+   image_fullwidth: "header-ideas.jpg"
 permalink: "/ideas/"
 ---
 
