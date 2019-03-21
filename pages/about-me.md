@@ -51,7 +51,7 @@ I'm an experienced Information System Specialist with a demonstrated history of 
 ***
 
 ### Hobbies 
-I really like to spend my free time lifting weights, swimming or active rest because of sedentary work. Of course, I like movies, music and having fun time overall.
+I really like to spend my free time lifting weights, swimming or active rest because of sedentary work. Of course, I like music, food and having a fun time with friends overall. I also like to plant flowers and take care of bonsai trees.
 
 - *Overcoming your own records is very fulfilling*
 - *Getting out of the comfort zone is important*
