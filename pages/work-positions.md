@@ -5,7 +5,7 @@ title: "Work Positions"
 subheadline: "History of my work positions at IT"
 # teaser: "History of my work positions at IT"
 header:
-   image_fullwidth: "header_unsplash_9.jpg"
+   image_fullwidth: "header_work.jpg"
 permalink: "/work-positions/"
 ---
 &nbsp;
