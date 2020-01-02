@@ -21,10 +21,10 @@ widget2:
   image: widget-myself.png
 
 widget3:
-  title: "TODO-LIST & IDEAS"
+  title: "Self-Learning"
   url: '/ideas/'
   image: widget-ideas.jpeg
-  text: 'List of projects which I want to get familiar with and ideas I would like to realize.'
+  text: 'Courses, Projects and Ideas I want to accomplish.'
 #
 # Use the call for action to show a button on the frontpage
 #
