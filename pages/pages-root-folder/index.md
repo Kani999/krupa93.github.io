@@ -8,11 +8,11 @@ layout: frontpage
 header:
   image_fullwidth: index-logo.jpg
 
-widget1:
-  title: "Blog"
-  url: '/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Blog about my accomplishments, fresh news, thoughts, developments, and activities. Go to a quick overview of all my posts.'
+# widget1:
+#   title: "Blog"
+#   url: '/blog/'
+#   image: widget-1-302x182.jpg
+#   text: 'Blog about my accomplishments, fresh news, thoughts, developments, and activities. Go to a quick overview of all my posts.'
 
 widget2:
   title: "About Me"
