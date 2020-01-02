@@ -12,8 +12,12 @@ permalink: "/work-positions/"
 ### Experiences
 ***
 ![image]({{ site.baseurl }}/images/it4i-logo.png){: height="40px" width="40px"} &nbsp;&nbsp; **IT4Innovations National Supercomputing Center**
+  - **HPC Lead Information System Specialist**
+    - *August 2019 - Present*
+    - The lead of the team responsible for information systems development. Architecture design and its solution.
+
   - **HPC Information System Specialist** 
-    - *January 2018 – Present*
+    - *January 2018 – August 2019*
     - Creating a new information system for managing users and projects computing at HPC clusters. Automate repetitive activities and simplify administration of computing resources for the HPC Admin Team to decrease their workload. 
 
   - **HPC System Specialist** 
