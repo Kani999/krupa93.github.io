@@ -13,6 +13,7 @@ header:
 #   url: '/blog/'
 #   image: widget-1-302x182.jpg
 #   text: 'Blog about my accomplishments, fresh news, thoughts, developments, and activities. Go to a quick overview of all my posts.'
+# widget-ideas.jpeg
 
 widget2:
   title: "About Me"
@@ -23,7 +24,7 @@ widget2:
 widget3:
   title: "Self-Learning"
   url: '/ideas/'
-  image: widget-ideas.jpeg
+  image: widget-1-302x182.jpg
   text: 'Courses, Projects and Ideas I want to accomplish.'
 #
 # Use the call for action to show a button on the frontpage
