@@ -25,11 +25,11 @@ permalink: "/ideas/"
 
 ## Courses
 
-| Category   |    Organizer  |  Link  | Status |
-|------------|:-------------:|:------:|:------:|
-| GIT |  CZ.NIC | [GIT](https://akademie.nic.cz/akademie/course/100/detail/) |Done |
-| MySQL Administration |  GoPas   | [MySQL](https://www.gopas.cz/Kurzy/Katalog-kurzu/Databaze/MySQL/Administrace-MySQL-GOC661.aspx) |   Pending |
-| MySQL Advanced Administration | GoPas | [MySQL](https://www.gopas.cz/Kurzy/Katalog-kurzu/Databaze/MySQL/Pokrocila-administrace-MySQL-GOC665.aspx) | Pending |
+| Category   |    Organizer  |  Link  | Status | Description |
+|------------|:-------------:|:------:|:------:|:------------|
+| GIT |  CZ.NIC | [GIT](https://akademie.nic.cz/akademie/course/100/detail/) |Done | Introduction to GIT functions and their use |
+| MySQL Administration |  GoPas   | [MySQL](https://www.gopas.cz/Kurzy/Katalog-kurzu/Databaze/MySQL/Administrace-MySQL-GOC661.aspx) |   Done | Features, management, backup and recovery, security, monitoring, automation, configuration |
+| MySQL Advanced Administration | GoPas | [MySQL](https://www.gopas.cz/Kurzy/Katalog-kurzu/Databaze/MySQL/Pokrocila-administrace-MySQL-GOC665.aspx) | Done | Management of database clusters |
 
 ## Self-Learning
 
@@ -38,7 +38,7 @@ permalink: "/ideas/"
 | [Flexbox Zombies](https://mastery.games/courses/enrolled/139425)  | FrontEnd - CSS flexbox layout |  Mastery Games | Done |
 | [Learn Go](https://www.codecademy.com/learn/learn-go) | Programming Language - Golang |  CodeAcademy | Done |
 | [Learn Git](https://www.codecademy.com/learn/learn-git) | Version Control System |  CodeAcademy |  Done | 
-|  [Learn Ruby On Rails](https://www.codecademy.com/learn/learn-rails) | Web Development Framework | CodeAcademy | Done | 
+| [Learn Ruby On Rails](https://www.codecademy.com/learn/learn-rails) | Web Development Framework | CodeAcademy | Done | 
 | [Learn SQL](https://www.codecademy.com/learn/learn-sql) | Language for communicating with Database | CodeAcademy |  Done |
 
 ## Intrests
