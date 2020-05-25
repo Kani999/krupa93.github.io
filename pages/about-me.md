@@ -5,7 +5,7 @@ title: "About Me"
 # subheadline: "A Step-by-Step Guide"
 teaser: "A little introduction about myself"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header_unsplash_leaf.jpg"
 permalink: "/about-me/"
 ---
 
@@ -17,17 +17,20 @@ I'm an experienced Information System Specialist with a demonstrated history of 
 
 ### Programming languages
 - Ruby
+- Javascript
 - Python
-- C#
-- Java
 - SQL
+- Java
+- C#
 
 ***
 
 ### Frameworks
 - Ruby On Rails
-- .NET
+- React
 - Flask
+- Maven
+- .NET
 
 ***
 
@@ -46,12 +49,16 @@ I'm an experienced Information System Specialist with a demonstrated history of 
 ***
 
 ### Courses
-- Git - Version Control System ([cz.nic](https://akademie.nic.cz/))
+
+| Category   |    Organizer  |  Link  | Status | Description |
+|------------|:-------------:|:------:|:------:|:------------|
+| GIT |  CZ.NIC | [GIT](https://akademie.nic.cz/akademie/course/100/detail/) |Done | Introduction to GIT functions and their use |
+| MySQL Administration |  GoPas   | [MySQL](https://www.gopas.cz/Kurzy/Katalog-kurzu/Databaze/MySQL/Administrace-MySQL-GOC661.aspx) |   Done | Features, management, backup and recovery, security, monitoring, automation, configuration |
+| MySQL Advanced Administration | GoPas | [MySQL](https://www.gopas.cz/Kurzy/Katalog-kurzu/Databaze/MySQL/Pokrocila-administrace-MySQL-GOC665.aspx) | Done | Management of database clusters |
+| React - from zero to mastery |  UDEMY | [React](https://www.udemy.com/course/complete-react-developer-zero-to-mastery) |In progress | Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) |
 
 ***
 
-### Hobbies 
-I really like to spend my free time lifting weights, swimming or active rest because of sedentary work. Of course, I like music, food and having a fun time with friends overall. I also like to plant flowers and take care of bonsai trees.
-
-- *Overcoming your own records is very fulfilling*
-- *Getting out of the comfort zone is important*
+### Links
+* [LinkedIn profile](https://www.linkedin.com/in/jan-krupa-139a40178/)
+* [GitHub profile](https://github.com/Kani999)

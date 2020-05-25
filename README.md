@@ -4,6 +4,6 @@ This is my personal website. You can pay me a visit at https://www.krupajan.cz/
 
 Built with:
 * Jekyll
-* Github Paged
+* Github Pages
 
 Yeah, it's so simple. ¯\(ツ)/¯

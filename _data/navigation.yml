@@ -5,10 +5,10 @@
 - title: About Me
   url: "/about-me/"
   side: left
-  dropdown:
-  - title: "Work Positions"
-    url: "/work-positions/"
 
+- title: "Work Positions"
+  url: "/work-positions/"
+  side: left
 
 # - title: Blog
 #   url: "/blog/"
@@ -17,14 +17,9 @@
 #   - title: "Blog Archive"
 #     url: "/blog/archive/"
 
-- title: Self-Learning
+- title: Self-Education
   url: "/ideas/"
   side: left
-#  dropdown:
-#  - title: "Changelog"
-#    url: "/changelog/"
-#  - title: "Roadmap"
-#    url: "/roadmap/"
 
 - title: "Contact"
   url: "/contact/"

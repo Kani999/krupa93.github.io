@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Self-Learning"
+title: "Self-Education"
 # subheadline: "ToDo-List &amp; Ideas"
 teaser: "Ideas, Projects and Courses I want to accomplish."
 header:
@@ -11,27 +11,19 @@ permalink: "/ideas/"
 ## Planned
 {: .t30 }
 
-* Get in touch with Kubernetes
+* Get in touch with Elastic Search
 * Interact with Raspberry
 
-## Done
+## Accomplished
 {: .t30 }
-* Get in touch with NODE.js
-* Buy VPS virtual machine
-* Buy own domain
-* Create own webserver
-* Get in touch with Docker and Docker Compose
+* [x] Get in touch with NODE.js
+* [x] Manage VPS machine
+* [x] Introduction to Docker and Docker Compose
+* [x] Introduction to React application 
+  * [GitHub projects](https://github.com/Kani999?tab=repositories&q=&type=&language=javascript)
+  * [Udemy Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
-
-## Courses
-
-| Category   |    Organizer  |  Link  | Status | Description |
-|------------|:-------------:|:------:|:------:|:------------|
-| GIT |  CZ.NIC | [GIT](https://akademie.nic.cz/akademie/course/100/detail/) |Done | Introduction to GIT functions and their use |
-| MySQL Administration |  GoPas   | [MySQL](https://www.gopas.cz/Kurzy/Katalog-kurzu/Databaze/MySQL/Administrace-MySQL-GOC661.aspx) |   Done | Features, management, backup and recovery, security, monitoring, automation, configuration |
-| MySQL Advanced Administration | GoPas | [MySQL](https://www.gopas.cz/Kurzy/Katalog-kurzu/Databaze/MySQL/Pokrocila-administrace-MySQL-GOC665.aspx) | Done | Management of database clusters |
-
-## Self-Learning
+## Self-Education
 
 | Name | Type | Organizer |  Status |
 |------|:-----|:---------:|--------:|
@@ -40,9 +32,8 @@ permalink: "/ideas/"
 | [Learn Git](https://www.codecademy.com/learn/learn-git) | Version Control System |  CodeAcademy |  Done | 
 | [Learn Ruby On Rails](https://www.codecademy.com/learn/learn-rails) | Web Development Framework | CodeAcademy | Done | 
 | [Learn SQL](https://www.codecademy.com/learn/learn-sql) | Language for communicating with Database | CodeAcademy |  Done |
+| [React - from zero to master](https://www.udemy.com/course/complete-react-developer-zero-to-mastery) | Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) | Udemy | In progress |
 
 ## Intrests
-* [LinkedIn profile](https://www.linkedin.com/in/jan-krupa-139a40178/)
-* [GitHub profile](https://github.com/Kani999)
 * [Code Academy profile](https://www.codecademy.com/profiles/jankrupa93 "CodeAcademy") - Online Courses
 * [Medium](https://medium.com/) - Get Smarter - Posts almost about everything

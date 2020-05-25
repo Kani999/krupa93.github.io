@@ -22,7 +22,7 @@ widget2:
   image: widget-myself.png
 
 widget3:
-  title: "Self-Learning"
+  title: "Self-Education"
   url: '/ideas/'
   image: widget-1-302x182.jpg
   text: 'Courses, Projects and Ideas I want to accomplish.'
